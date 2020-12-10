@@ -25,7 +25,9 @@
 * modular-event-plugin：Gradle Plugin
 
 其中modular-event-plugin主要用于扫描所有module的自定义task，这个实现网上有很多示例，所以不在这里说明，示例中仍然有其他三个模块。也有使用module通信的示例。
+## 整体流程
 
+![](./module_event.png)
 ## ceventbus的结构
 * base：定义Anotation及其他基本类型
 * core：event核心实现
