@@ -1,0 +1,7 @@
+include ':common_event'
+include ':test_module1'
+include ':core'
+include ':compiler'
+include ':base'
+include ':app'
+rootProject.name = "ceventbus"
