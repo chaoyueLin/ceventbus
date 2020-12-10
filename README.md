@@ -1,4 +1,4 @@
-#CEventBus消息总线
+# CEventBus消息总线
 [Android消息总线的演进之路：用LiveDataBus替代RxBus、EventBus](https://tech.meituan.com/2018/07/26/android-livedatabus.html)
 [Android组件化方案及组件消息总线modular-event实战](https://tech.meituan.com/2018/12/20/modular-event.html)
 
